@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.listitem-1 {
+  display: flex;
+  align-items: center;
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+  border-radius: 10px;
+  padding: 20px;
+  flex-grow: 1;
+  margin-right: 40px;
+}
+
+.listitem-2 {
+  display: flex;
+  align-items: center;
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+  border-radius: 10px;
+  padding: 20px;
+  flex-grow: 1;
+  margin-right: 40px;
+}
+
+.listitem-3 {
+  display: flex;
+  align-items: center;
+  background-color: #cbd5e1;
+  border: 1px solid #7c3aed;
+  border-radius: 10px;
+  padding: 20px;
+  flex-grow: 1;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 13px;
+}
+
+.balance {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 20px;
+}

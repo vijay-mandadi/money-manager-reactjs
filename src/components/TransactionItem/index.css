@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.table-row {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+  border-left: 1px solid #cbd5e1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.transaction-text {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 30%;
+}
+
+img {
+  height: 25px;
+  width: 25px;
+}
+
+.delete {
+  background-color: transparent;
+  border: 0px;
+}
